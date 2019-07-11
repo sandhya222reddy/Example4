@@ -1,0 +1,33 @@
+.demo{
+	background-color:red;
+	
+	height:600px;
+}
+
+.demo1{
+	background-color:red;
+	
+	height:100px;
+
+}
+
+.demo2{
+	background-color:blue;
+	
+	height:400px;
+	margin-top: 100px;
+
+}
+
+/**
+.demo2{
+	background-color:pink;
+	
+	height:100px;
+}
+.demo3{
+	background-color:gray;
+	height:100px;
+}
+
+*/
